@@ -5,13 +5,7 @@
   justify-content: center;
 }
 
-header {
-  margin-top: 15px;
-  display: flex;
-  justify-content: center;
-}
-
-hr {
+.articles__others > hr {
   margin: 20px 0;
 }
 
