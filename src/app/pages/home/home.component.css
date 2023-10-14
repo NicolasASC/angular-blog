@@ -10,3 +10,8 @@ header {
   display: flex;
   justify-content: center;
 }
+
+hr {
+  margin: 20px 0;
+}
+
